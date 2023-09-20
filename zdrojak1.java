@@ -1,2 +1,2 @@
 cau z mainu
-upraveno v mainu
+cau z developu
